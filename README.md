@@ -14,7 +14,7 @@ Welcome to my GitHub profile! Feel free to explore my projects and reach out to 
 - <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="25" witdth="25"> **<a align="center" href="https://www.linkedin.com/in/enilson-neto">Enilson Neto</a>**
 
 
-### 💻 Stack I Work With
+### 💻 I Work With
 
 <p  align="center">
 
